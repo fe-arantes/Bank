@@ -1,0 +1,8 @@
+C:\GIT\Bank\Bank\Bank\Bank.Library\bin\Debug\netcoreapp3.1\Bank.Library.deps.json
+C:\GIT\Bank\Bank\Bank\Bank.Library\bin\Debug\netcoreapp3.1\Bank.Library.dll
+C:\GIT\Bank\Bank\Bank\Bank.Library\bin\Debug\netcoreapp3.1\Bank.Library.pdb
+C:\GIT\Bank\Bank\Bank\Bank.Library\obj\Debug\netcoreapp3.1\Bank.Library.AssemblyInfoInputs.cache
+C:\GIT\Bank\Bank\Bank\Bank.Library\obj\Debug\netcoreapp3.1\Bank.Library.AssemblyInfo.cs
+C:\GIT\Bank\Bank\Bank\Bank.Library\obj\Debug\netcoreapp3.1\Bank.Library.csproj.CoreCompileInputs.cache
+C:\GIT\Bank\Bank\Bank\Bank.Library\obj\Debug\netcoreapp3.1\Bank.Library.dll
+C:\GIT\Bank\Bank\Bank\Bank.Library\obj\Debug\netcoreapp3.1\Bank.Library.pdb
