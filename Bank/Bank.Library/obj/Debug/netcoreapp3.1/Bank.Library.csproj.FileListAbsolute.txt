@@ -6,3 +6,4 @@ C:\GIT\Bank\Bank\Bank\Bank.Library\obj\Debug\netcoreapp3.1\Bank.Library.Assembly
 C:\GIT\Bank\Bank\Bank\Bank.Library\obj\Debug\netcoreapp3.1\Bank.Library.csproj.CoreCompileInputs.cache
 C:\GIT\Bank\Bank\Bank\Bank.Library\obj\Debug\netcoreapp3.1\Bank.Library.dll
 C:\GIT\Bank\Bank\Bank\Bank.Library\obj\Debug\netcoreapp3.1\Bank.Library.pdb
+C:\GIT\Bank\Bank\Bank\Bank.Library\obj\Debug\netcoreapp3.1\Bank.Library.csprojAssemblyReference.cache
